@@ -5,5 +5,6 @@ public class hi {
 		System.out.println("Added this part for merge test 2");
 		System.out.println("In which I say hi back");
 		System.out.println("Pull checked");
+		System.out.println("That");
 	}
 }
